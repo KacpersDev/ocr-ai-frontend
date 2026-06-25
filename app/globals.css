@@ -6,3 +6,7 @@ body, html {
   background-color: #f0eee7;
   overflow-x: hidden;
 }
+
+@theme {
+  --color-dashboard_sidebar_hover: #D8D6CF
+}
