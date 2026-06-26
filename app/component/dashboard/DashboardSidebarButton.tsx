@@ -1,4 +1,4 @@
-import { Dispatch, FC, SetStateAction } from "react";
+import { Dispatch, FC } from "react";
 import { IconType } from "react-icons"
 
 interface SidebarButton {
